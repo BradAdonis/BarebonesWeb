@@ -3,8 +3,6 @@
   "version": "0.0.1",
   "description": "Barebones project",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/planetoftheweb/bootcarousel.git"
   },
   "author": "Bradley Cunningham",
   "devDependencies": {
